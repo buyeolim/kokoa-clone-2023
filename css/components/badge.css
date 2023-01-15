@@ -1,0 +1,20 @@
+.badge {
+  background-color: var(--noti-red);
+  color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  padding-top: 3px;
+  padding-right: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+}
+
+.badge-dot {
+  background-color: var(--noti-red);
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+}
